@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Tribute Page</title>
+</head>
+<body>
+   <header>
+      <div class="container">
+          <div class="row">
+          <div class="col">
+              <h1 class="text-center">Paul Walker</h1>
+              <h2 class="text-center">1973 - 2013</h2>
+              <h3 class="text-center">an American Actor</h3>
+          </div>
+          <div class="thumbnail">
+              <p>(September 12, 1973[4] – November 30, 2013) was an American actor. He is best known for his role as Brian O'Conner in the Fast & Furious franchise.
+
+Walker began his career as a child actor in the 1980s, gaining recognition in the 1990s after appearing in the television soap opera The Young and the Restless; he received praise for his performances in the teen comedy She's All That and the comedy-drama Varsity Blues (both 1999), and saw international fame by starring in The Fast and the Furious (2001).</p><br>
+          
+          <img src="images/rs_600x600-131130183424-600.Paul-Walker-RIP-2-jmd-113013.jpg" alt="Paul Walker" class="center">
+          <div class="Caption">The Best Racer</div>
+              </div>
+          </div>
+      </div>
+       
+   </header>
+    <main>
+       <div class="row">
+           <div class="col">
+               <h3>The following is the time line list of Pauk Walker</h3>
+               <ul>
+                   <li><strong>1968</strong>
+Walker began his film career in 1986, appearing mainly in low budget B films. His first role was in the horror comedy Monster in the Closet, and a year later, starred in The Retaliator (retroactively subtitled Programmed to Kill), a science fiction film. In 1994, he returned to film, starring in Tammy</li>
+               </ul>
+               <div class="text-center">Read more about Paul walker on<a href="https://en.wikipedia.org/wiki/Paul_Walker"target="_blank">Wikipedia</a></div>
+           </div>
+       </div>
+        
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
